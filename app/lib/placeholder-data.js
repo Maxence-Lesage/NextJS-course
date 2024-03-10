@@ -180,6 +180,11 @@ const revenue = [
   { month: 'Dec', revenue: 4800 },
 ];
 
+// ES Modules 
+// export { users, customers, invoices, revenue }
+// TODO tester avec l'utilisation des ES Modules
+
+// CommonJS Modules
 module.exports = {
   users,
   customers,
