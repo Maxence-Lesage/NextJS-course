@@ -40,4 +40,5 @@ export const { auth, signIn, signOut } = NextAuth({
       },
     }),
   ],
+  secret: "5eCIJcIW/QvAWVAoDlez8gZaE5Xqku10qELoqbKP5rQ="
 });
