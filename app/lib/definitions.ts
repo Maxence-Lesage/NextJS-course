@@ -86,5 +86,3 @@ export type InvoiceForm = {
   amount: number;
   status: 'pending' | 'paid';
 };
-
-// TODO créer le fichier definitions.ts dans le projet Final One

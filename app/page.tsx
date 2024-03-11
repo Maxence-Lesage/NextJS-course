@@ -38,7 +38,6 @@ export default function Page() {
             alt="Screenshots of the dashboard project showing desktop version"
             priority={true}
           />
-          {/*TODO Next/Image Prioritization*/}
           <Image
             src="/hero-mobile.png"
             width={560}
@@ -52,5 +51,3 @@ export default function Page() {
     </main>
   );
 }
-
-// TODO clsx ?
